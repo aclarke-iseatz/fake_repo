@@ -3,3 +3,4 @@ FAKE PROJECT
 
 1. This is really just a fake project
 2. I'm using it to test repo_bro
+3. I'm adding more bullet points so i can test tagging
